@@ -1,0 +1,197 @@
+.heading
+{
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border-bottom: 3px solid #A19B9B;
+	padding-bottom: 5px;
+	margin: 100px auto 25px;
+	max-width: 1050px;
+}
+
+.row
+{
+	max-width: 1200px;
+	margin: 0 auto;
+	min-width: 220px;
+}
+
+.container
+{
+	margin-top: 0px;
+}
+
+.ratings
+{
+	color: yellow;
+	font-weight: 400;
+	font-size: 60px;
+	height:40px;
+}
+
+.text-centered
+{
+	text-align: center;
+}
+
+.text-left
+{
+	text-align: left;
+}
+
+.row .btn {
+    background-color: #00F;
+    color: #FFF;
+}
+#rate
+{
+	background-color: gray;
+	margin-bottom:5px;
+}
+.list-inline
+{
+	display:none;
+	margin-left:2px;
+}
+
+.side-nav
+{
+	/*background-color: rgba(210, 205, 205, 0.1);*/
+	padding: 0 10px;
+/*	border-right:1px solid #A19B9B;;*/
+}
+
+.filter-group
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #FFF;
+	border-bottom: 1px solid #D9D9D9;
+	border-top: 1px solid #D9D9D9;
+}
+
+.filter-header
+{
+	    cursor: pointer;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #337AB7;
+    position: relative;
+    margin:0;
+}
+
+.filter-subheader
+{
+	display:none;
+}
+
+.filter-subheader
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	list-style: outside none none;
+	padding-left: 0px;
+	margin:0;
+
+}
+
+.filter-group .glyphicon
+{
+	float: right;
+}
+
+.filter-subheader li
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.search-results
+{
+	padding: 5px 0px 5px 10px;
+    border-left: 1px solid #A19B9B;
+}
+
+.search-results h5
+{	
+	margin-top:20px;	
+}
+
+.search-item
+{
+	border-bottom: 1px solid #A19B9B;
+	border-top: 1px solid #A19B9B;
+	padding: 15px;
+	overflow: hidden;
+	display: block;
+	margin-bottom: 20px;
+	font-size: 12px;
+	min-width: 250px;
+}
+
+.search-item:nth-child(odd)
+{
+	background-color: rgba(243, 238, 238, 0.32);
+}
+
+.search-item .vlogo
+{
+	border: 2px solid #A19B9B;
+	padding:2px;
+	height: 110px;
+	max-width: 110px;
+	width: 110px;
+	position: relative;
+}
+.search-item .vtitle
+{
+	font-size: 20px;
+	padding: 0px;
+	margin: 0px;
+	font-weight: bold;
+}
+
+.search-item .vcontact
+{
+	font-size: 15px;
+	font-weight: normal;
+	color: #AAA;
+	margin-bottom: 30px;
+}
+
+.search-item .vservices
+{
+	margin: 2px 0px;
+	font-size:15px;
+}
+
+.search-item .vsummary
+{}
+.search-item .vratings
+{
+	float: right;
+	text-align: center;
+	/*margin-top: 20px;*/
+	/*top:5px;*/
+	position: relative;
+	padding: 0px;
+}
+
+.pagination
+{
+	margin-left: auto;
+	margin-right: auto
+}
+
+.pagination > li:first-child > a,.pagination > li:last-child > a
+{
+	height:8px;
+	width: 20px;
+}
+
+
+

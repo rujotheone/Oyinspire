@@ -1,0 +1,41 @@
+.row
+{
+	max-width: 1050px;
+	margin: 0 auto;
+	min-width: 220px;
+
+}
+
+.container
+{
+	margin-top: 0px;
+}
+
+.text-centered
+{
+	text-align: center;
+}
+
+.text-left
+{
+	text-align: left;
+}
+
+.row .btn {
+    background-color: #00F;
+    color: #FFF;
+    padding:5;
+    
+}
+label[for="image"]
+{
+	cursor: pointer;
+	margin-bottom:0;
+}
+
+.side-nav
+{
+	background-color: rgba(210, 205, 205, 0.1);
+	padding: 15px
+}
+

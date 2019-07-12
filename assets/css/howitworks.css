@@ -1,0 +1,25 @@
+section
+{
+	background-color: #F6F1F8;;
+	width: 100%;
+	border-bottom: 1px solid #808080;
+	padding: 20px;
+}
+
+h3,h1
+{
+	text-align: center;
+}
+
+.bullet
+{
+	background-color: #F8881A;
+	width:40px;
+	height: 40px;
+	border-radius: 50%;
+	color:#F9F9F9;
+	margin:0 auto;
+	font-size:30px;
+	text-align: center;
+
+}

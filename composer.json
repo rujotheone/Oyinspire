@@ -1,0 +1,7 @@
+{
+    "require": {
+        "raveren/kint": "0.9",
+        "altorouter/altorouter": "1.1.*"
+        
+    }
+}
